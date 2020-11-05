@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>/</id>
+	<title />
+	<link rel="self" href="/" />
+	<rights>2020</rights>
+	<updated>2020-11-05T17:29:41Z</updated>
+	<entry>
+		<id>/posts/post-2</id>
+		<title>Post 2</title>
+		<link href="/posts/post-2" />
+		<updated>2020-11-05T17:27:32Z</updated>
+		<content>&lt;h1 id="post-two"&gt;post two&lt;/h1&gt;
+&lt;p&gt;post two documentation.&lt;/p&gt;
+</content>
+		<summary>This is a description.</summary>
+	</entry>
+	<entry>
+		<id>/posts/post-1</id>
+		<title>Post 1</title>
+		<link href="/posts/post-1" />
+		<updated>2020-11-05T17:27:32Z</updated>
+		<content>&lt;h1 id="post-one"&gt;post one&lt;/h1&gt;
+&lt;p&gt;post one documentation.&lt;/p&gt;
+</content>
+		<summary>This is a description.</summary>
+	</entry>
+</feed>
